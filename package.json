@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/aawajjoshi/graphql-server#readme",
   "dependencies": {
-    "apollo-server": "^2.15.0",
+    "apollo-server": "^2.25.4",
     "bcryptjs": "^2.4.3",
     "graphql": "^15.1.0",
     "jsonwebtoken": "^8.5.1",
